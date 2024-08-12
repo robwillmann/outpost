@@ -1,8 +1,18 @@
 ---
-title: Philosophy, Inventions and Information
+title: Endorsement, Philosophy and Inventions
 ---
 
-# **Philosophy, Endorsements and Inventions**
+# **Endorsement, Philosophy and Inventions**
+
+## **Endorsement**
+
+Lasse Ehlers endorse Titan X ecosystem.
+
+Main links:
+
+[Titan X](https://app.titanx.win)
+
+[TitanXhub](https://www.titanxhub.com/)
 
 
 
@@ -40,26 +50,6 @@ Best flat earth documentary till date:
 Very good short Flat Earth video:
 
 https://www.lassecash.com/@lasseehlers/there-is-no-curvature-on-flat-earth
-
-## **Endorsement**
-
-Lasse Ehlers endorse Titan X ecosystem.
-
-Main links:
-
-[Titan X](https://app.titanx.win)
-
-[TitanXhub](https://www.titanxhub.com/)
-
-
-
-
-
-
-
-
-
-
 
 
 

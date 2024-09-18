@@ -28,6 +28,15 @@ export default {
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      ],
+      script: [
+        {
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-RXPYJVHM4X',
+            async: true
+        },
+        {
+            src: 'js/ga.js'
+        }
       ]
     }
 

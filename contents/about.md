@@ -101,6 +101,10 @@ LasseCash is GREEN ENERGY
 
 All LasseCash services runs on very little resources and very little power consumption, the energy consumption for extreme numbers of capacity is similar to one modern households yearly consumption. In comparison is Bitcoin's energy consumption roughly equivalent to the annual energy draw of small countries like Malaysia or Sweden. In other words LasseCash is prepared for a green future since day 1.
 
+Future development
+--
+
+We are trying to migrate LasseCash to VSC (Virtual Smart Chain) when that is ready, if that happens then the weakness of Hive Engine is gone and LasseCash might be among the top Freedom Fighter Golds in the world.
 
 
 Legal disclaimer

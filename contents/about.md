@@ -66,8 +66,7 @@ Dynamic Inflation
 
 Inflation in LasseCash is decided by Lasse Ehlers, as the leader of the OUTPOST. He aim at only changing the inflation ones a year, but if nessesary it can be done at all times. Changes will always be announced in a post on the blockchain, so there is always full transparency, as there has been since the beginning of this product.
 
-![image.png](https://images.hive.blog/DQmQMNucuAPoNfS8y6Es989nJPKUbyvYfbKWA8C6eRAJWFU/image.png)
-
+![inflation.webp](https://images.hive.blog/DQmRhz8nZXipEKakXBWiphCDhmCKEpxpLKPmM6Y3uEkZWtr/inflation.webp)
 
 Max 51 million tokens ever.
 

@@ -27,4 +27,4 @@ T-shirt #4, for sale for $99.
 
 
 
-To order, please send LASSECASH or HIVE equivalent to ~$99 (per t-shirt you order) to @lasseehlers and write the details of which t-shirt you want: the quantity, the gender (male or female), the size (S, M, L, XL, XXL or XXXL), your name and address in the memo. (If you want to remain anonymous then please send the info in our [Discord](https://discord.gg/5JW2w9t)). The quality is a standard premium from Vistaprint.com and it is usually delivered within ~3-5 days. The profit goes 50%/50% to @lasseehlers and @zaxan . 
+To order, please send LASSECASH equivalent to ~$99 (per t-shirt you order) to @lasseehlers and write the details of which t-shirt you want: yjre #, the quantity, the size (S, M, L, XL, XXL or XXXL), your name and address in the memo. (If you want to remain anonymous then please send the info in our [Discord](https://discord.gg/5JW2w9t)). The quality is a standard premium from Vistaprint.com and it is usually delivered within ~3-5 days depending on where you live. The profit goes 50%/50% to @lasseehlers and @zaxan . 

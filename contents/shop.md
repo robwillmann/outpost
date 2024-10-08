@@ -8,15 +8,12 @@ T-shirts for sale. The design is made by Lasse Ehlers @lasseehlers and Carlos Se
 
 T-shirt #1, for sale for $99.
 
-![FEBILL.jpeg](https://files.peakd.com/file/peakd-hive/lasseehlers/AK6axxxsGkZDEqKqL1HC8nQ5hT1Mn6WVFCEsm8KAmfaQbNQ99Ko52sAf3ewst6U.jpeg)
+![preview 5.jpeg](https://images.hive.blog/DQmQwVwypkexwENTCN7kynhcxNbpErJg3Cx96NVff7CWLkA/preview%20(5).jpeg)
+
 
 T-shirt #2, for sale for $99.
 
 ![rich boss.jpeg](https://images.hive.blog/DQmPX7Z7qsXetkgqSmGUkMszAgErf1cnpChahxu2ecvVmyQ/rich%20boss.jpeg)
-
-T-shirt #3, for sale for $99.
-
-![xen.jpeg](https://files.peakd.com/file/peakd-hive/lasseehlers/AJkVibMqXJEQWLiXXPwuKhF2Sg3W4KQ657EANPP1XJpNY2puf7JSzShxq3utjL6.jpeg)
 
 T-shirt #4, for sale for $99.
 
